@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "RPG game using OOP and TDD",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshallcross/jest-another-rpg.git"
+  },
+  "author": "Jon Shallcross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jshallcross/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/jshallcross/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
