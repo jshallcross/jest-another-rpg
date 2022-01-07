@@ -1,6 +1,6 @@
 # Jest Another RPG
 
-## Module 10 U of T Continued Studies Coding Boot Camp
+#University of Toronto Coding Boot Camp Code Along Week 10 - Object Oriented Programming
 --- 
 
 This is a text based RPG game used to teach constructor functions.
